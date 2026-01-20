@@ -4,7 +4,7 @@
   "main": "index.js",
   "dependencies": {
     "babel-core": "^6.16.0",
-    "npm": "^3.9.0",
+    "npm": "^7.21.0",
     "react-dom": "^15.3.2",
     "react": "^15.3.2"
   },
